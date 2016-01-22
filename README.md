@@ -18,3 +18,9 @@ Worked on jQuery playground. First learning experience with higher order functio
 Finished XHR homework. Learned about npm start.
 Read Steps to make TDD work & Why I hate TDD.
 Starting higher order functions work from Monday.
+
+1.21
+
+Started a JavaScript weather app, that pull in API info about user IP, location, and current weather. Working on updating after user submission.
+Learned JS prototyping.
+Learned a bit about bootstrap.
