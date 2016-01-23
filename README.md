@@ -22,5 +22,13 @@ Starting higher order functions work from Monday.
 1.21
 
 Started a JavaScript weather app, that pull in API info about user IP, location, and current weather. Working on updating after user submission.
-Learned JS prototyping.
+Learned about JS prototyping, completed Prototyping Zoo with Dave Sudia.
 Learned a bit about bootstrap.
+
+1.22
+
+Completed some higher order exercises, started every. Finished and pushed up weather app. Started a ruin your favorite foods app, pulling FDA api info.
+
+1.23
+
+Completed every higher exercises. Started map, filter and reduce exercises.
