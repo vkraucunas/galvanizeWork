@@ -31,4 +31,8 @@ Completed some higher order exercises, started every. Finished and pushed up wea
 
 1.23
 
-Completed every higher exercises. Started map, filter and reduce exercises.
+Completed every exercises. Started map, filter and reduce exercises. Completed map, started filter.
+
+1.24
+
+Completed filter exercise, did enough of reduce to get the general gist. Last two were more difficult than I felt was necessary to dedicate time to. Sat through a "review" session, left discouraged.
