@@ -36,3 +36,8 @@ Completed every exercises. Started map, filter and reduce exercises. Completed m
 1.24
 
 Completed filter exercise, did enough of reduce to get the general gist. Last two were more difficult than I felt was necessary to dedicate time to. Sat through a "review" session, left discouraged.
+
+1.25-1.28
+
+During this time I worked with a collection of rad people (Kevin Njeru, Mike DiGuiseppi, Andy Gross) to create an ecommerce site, selling tshirts and with much interactivity.
+
