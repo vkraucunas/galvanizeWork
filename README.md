@@ -41,3 +41,6 @@ Completed filter exercise, did enough of reduce to get the general gist. Last tw
 
 During this time I worked with a collection of rad people (Kevin Njeru, Mike DiGuiseppi, Andy Gross) to create an ecommerce site, selling tshirts and with much interactivity.
 
+1.29
+Dink Kitchen project proposal approved. Starting PivotalTracker story writing.
+
