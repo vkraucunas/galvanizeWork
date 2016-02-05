@@ -44,3 +44,5 @@ During this time I worked with a collection of rad people (Kevin Njeru, Mike DiG
 1.29
 Dink Kitchen project proposal approved. Starting PivotalTracker story writing.
 
+2.5
+Assessment of building food ordering app
