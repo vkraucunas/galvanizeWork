@@ -46,3 +46,7 @@ Dink Kitchen project proposal approved. Starting PivotalTracker story writing.
 
 2.5
 Assessment of building food ordering app
+
+2.6
+Additional work on Bob exercism
+
