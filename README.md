@@ -50,3 +50,5 @@ Assessment of building food ordering app
 2.6
 Additional work on Bob exercism
 
+2.10
+Break day. Attended Learn to Code Colorado Meetup for writing an api, intro to node
