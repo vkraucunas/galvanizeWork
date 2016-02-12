@@ -52,3 +52,9 @@ Additional work on Bob exercism
 
 2.10
 Break day. Attended Learn to Code Colorado Meetup for writing an api, intro to node
+
+2.11
+Completed bob exercism
+
+2.12
+Completed phone number and roman numeral exercisms. Updated 2.5 assessment for performance tracker update
