@@ -58,3 +58,10 @@ Completed bob exercism
 
 2.12
 Completed phone number and roman numeral exercisms. Updated 2.5 assessment for performance tracker update
+
+2.13
+Completed hamming exercism.
+
+2.14
+completed grade school exercism. started say exercism.
+
