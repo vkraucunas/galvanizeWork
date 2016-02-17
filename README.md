@@ -65,3 +65,8 @@ Completed hamming exercism.
 2.14
 completed grade school exercism. started say exercism.
 
+2.16
+started learning node. completed module.exports exercise. completed responsive login exercise.
+
+2.17
+warmup: colors with node exercise.
