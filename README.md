@@ -69,4 +69,7 @@ completed grade school exercism. started say exercism.
 started learning node. completed module.exports exercise. completed responsive login exercise.
 
 2.17
-warmup: colors with node exercise.
+warmup: colors with node exercise. http-server lecture. brief into to url
+
+2.18
+warmup: route-calculator, could use a refactor, but functional
