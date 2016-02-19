@@ -72,4 +72,7 @@ started learning node. completed module.exports exercise. completed responsive l
 warmup: colors with node exercise. http-server lecture. brief into to url
 
 2.18
-warmup: route-calculator, could use a refactor, but functional
+warmup: route-calculator, could use a refactor, but functional. OOP'd the todo app. Started express intro exercises. Attended slackbot meetup. Write lightning talk
+
+2.19
+warmup: typing.io/4, speed 49wpm. Completed 00 of express intro exercises.
