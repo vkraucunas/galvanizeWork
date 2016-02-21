@@ -76,3 +76,6 @@ warmup: route-calculator, could use a refactor, but functional. OOP'd the todo a
 
 2.19
 warmup: typing.io/4, speed 49wpm. Completed 00 of express intro exercises.
+
+2.20
+restaurant crud project image collection and manipulation
