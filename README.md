@@ -79,3 +79,6 @@ warmup: typing.io/4, speed 49wpm. Completed 00 of express intro exercises.
 
 2.20
 restaurant crud project image collection and manipulation
+
+2.21
+working on the restaurant crud project. bad time management today. :(
