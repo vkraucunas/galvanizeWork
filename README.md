@@ -85,3 +85,6 @@ working on the restaurant crud project. bad time management today. :(
 
 2.22
 pulled through last night, created something serviceable. deployed app to heroku
+
+2.23
+intro to psql. working on mail merge express/swig project.
