@@ -88,3 +88,6 @@ pulled through last night, created something serviceable. deployed app to heroku
 
 2.23
 intro to psql. working on mail merge express/swig project.
+
+2.26
+have created a hogwarts sql db. learned about pg. wrote api for wine cellar.
