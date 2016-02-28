@@ -91,3 +91,6 @@ intro to psql. working on mail merge express/swig project.
 
 2.26
 have created a hogwarts sql db. learned about pg. wrote api for wine cellar.
+
+2.27
+not much. dinked most of day.
