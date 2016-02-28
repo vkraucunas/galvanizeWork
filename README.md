@@ -94,3 +94,6 @@ have created a hogwarts sql db. learned about pg. wrote api for wine cellar.
 
 2.27
 not much. dinked most of day.
+
+2.28
+restaurant week two work.
