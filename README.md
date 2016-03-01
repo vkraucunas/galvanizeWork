@@ -1,5 +1,7 @@
 # galvanizeWork
 
+#### because much of my work is submitted to private repos.
+
 1.17
 
 Completed JS Style exercise: given HTML frame we then had to style completely with vanilla JavaScript
@@ -97,3 +99,6 @@ not much. dinked most of day.
 
 2.28
 restaurant week two work.
+
+3.1
+completed an address book crud app. starting a movie inventory crud app.
