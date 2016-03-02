@@ -102,3 +102,6 @@ restaurant week two work.
 
 3.1
 completed an address book crud app. starting a movie inventory crud app.
+
+3.2
+overcame loss of "give a damn" to 98% complete movie inventory app base assignment in the AM. need to figure out date object parsing. stretch goal(s) will probably be break week task.
