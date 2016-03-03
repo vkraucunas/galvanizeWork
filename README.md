@@ -105,3 +105,6 @@ completed an address book crud app. starting a movie inventory crud app.
 
 3.2
 overcame loss of "give a damn" to 98% complete movie inventory app base assignment in the AM. need to figure out date object parsing. stretch goal(s) will probably be break week task.
+
+3.3
+completed routes from weekend restaurant assignment. small problems left. now onto stretch goals of movie app.
