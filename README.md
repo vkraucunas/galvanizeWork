@@ -108,3 +108,6 @@ overcame loss of "give a damn" to 98% complete movie inventory app base assignme
 
 3.3
 completed routes from weekend restaurant assignment. small problems left. now onto stretch goals of movie app.
+
+3.4
+completed knex assessment. had presentation from outcomes this morning. updated my linkedin. learned about server side validation. given week 3 work for restaurants app. --> to refactor queries into knex and build migrations.
