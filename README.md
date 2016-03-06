@@ -111,3 +111,6 @@ completed routes from weekend restaurant assignment. small problems left. now on
 
 3.4
 completed knex assessment. had presentation from outcomes this morning. updated my linkedin. learned about server side validation. given week 3 work for restaurants app. --> to refactor queries into knex and build migrations.
+
+3.5
+knex migrations and seeds for restaurant project complete. starting queries then updating routes. still need to fix date population and aggregate rating on show page.
