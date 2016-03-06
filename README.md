@@ -114,3 +114,6 @@ completed knex assessment. had presentation from outcomes this morning. updated 
 
 3.5
 knex migrations and seeds for restaurant project complete. starting queries then updating routes. still need to fix date population and aggregate rating on show page.
+
+3.6
+completed queries and validation homework on restaurant project.
