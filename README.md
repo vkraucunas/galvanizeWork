@@ -117,3 +117,6 @@ knex migrations and seeds for restaurant project complete. starting queries then
 
 3.6
 completed queries and validation homework on restaurant project.
+
+3.12
+new knex migrations for restaurants crud
