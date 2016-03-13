@@ -120,3 +120,6 @@ completed queries and validation homework on restaurant project.
 
 3.12
 new knex migrations for restaurants crud
+
+3.13
+finishing restaurant project assignment. creating ERD + tracker stories for alligator jobs.
