@@ -123,3 +123,20 @@ new knex migrations for restaurants crud
 
 3.13
 finishing restaurant project assignment. creating ERD + tracker stories for alligator jobs.
+
+3.14
+[Deployed restaurant project](https://fast-headland-90906.herokuapp.com/)
+ERD created. Work on tests started.
+
+3.15
+view templates created. knex migrations and seeds written.
+
+3.16
+starting work on monster form.
+
+3.17
+monster form completed. starting structure of culture pages.
+
+3.18
+unit 2 assessment and presentation of alligator jobs.
+[Deployed Alligator Jobs](http://alligatorjobs.herokuapp.com/)
