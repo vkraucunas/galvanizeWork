@@ -140,3 +140,6 @@ monster form completed. starting structure of culture pages.
 3.18
 unit 2 assessment and presentation of alligator jobs.
 [Deployed Alligator Jobs](http://alligatorjobs.herokuapp.com/)
+
+3.19
+designing a personal business card.
