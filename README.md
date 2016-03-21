@@ -143,3 +143,6 @@ unit 2 assessment and presentation of alligator jobs.
 
 3.19
 designing a personal business card.
+
+3.21
+met with potential user of alligator jobs. went well!
