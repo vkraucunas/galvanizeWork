@@ -149,3 +149,6 @@ met with potential user of alligator jobs. went well!
 
 3.22
 started updated ERD for alligator.
+
+3.23
+break week magic.
