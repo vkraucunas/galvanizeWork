@@ -152,3 +152,6 @@ started updated ERD for alligator.
 
 3.23
 break week magic.
+
+3.24-25
+apto headshots
