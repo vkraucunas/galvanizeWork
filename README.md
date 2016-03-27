@@ -155,3 +155,6 @@ break week magic.
 
 3.24-25
 apto headshots
+
+3.26
+TA'd at Girl Develop It Intro to JavaScript class
