@@ -158,3 +158,6 @@ apto headshots
 
 3.26
 TA'd at Girl Develop It Intro to JavaScript class
+
+3.27
+completed apto headshot editing.
