@@ -161,3 +161,6 @@ TA'd at Girl Develop It Intro to JavaScript class
 
 3.27
 completed apto headshot editing.
+
+3.30
+galvanize readssss work with Mills. starting angular curriculum.
