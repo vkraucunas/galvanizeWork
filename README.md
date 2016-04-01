@@ -164,3 +164,6 @@ completed apto headshot editing.
 
 3.30
 galvanize readssss work with Mills. starting angular curriculum.
+
+4.1
+working through the angular curriculum. today on scope and controllers. cash register app.
