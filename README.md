@@ -167,3 +167,6 @@ galvanize readssss work with Mills. starting angular curriculum.
 
 4.1
 working through the angular curriculum. today on scope and controllers. cash register app.
+
+4.2
+attended react intro. built a to do app.
