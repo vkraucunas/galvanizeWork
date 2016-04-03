@@ -170,3 +170,6 @@ working through the angular curriculum. today on scope and controllers. cash reg
 
 4.2
 attended react intro. built a to do app.
+
+4.3
+the angular hell continues.
