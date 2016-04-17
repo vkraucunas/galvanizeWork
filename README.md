@@ -173,3 +173,6 @@ attended react intro. built a to do app.
 
 4.3
 the angular hell continues.
+
+4.16
+started learning about salesforce and python. researching for unit 3 final project.
